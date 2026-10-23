@@ -1,6 +1,6 @@
 # Hi bro 👋
 
-## Turning coffee into code and ideas into reality ...
+## I generate curiosity at a pace my clock simply can't keep up with ...
 
 - 👩‍🎓 Computer Science student at University of Verona
 - 💥 If you can explain it, you can break it.

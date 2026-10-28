@@ -4,7 +4,7 @@
 
 - 👩‍🎓 Computer Science student at University of Verona
 - 💥 If you can explain it, you can break it.
-- 🖥️ Deeply fascinated by how things works and how break it 
+- 🖥️ Deeply fascinated by how things work and how to break it 
 - 👩🏻‍💻 I love documenting everything 
 - 🚩 Hunting for flags
-- 🔄 Fall in love with Reverse Engineering
+- 🔄 In love with Reverse Engineering
